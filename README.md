@@ -24,11 +24,12 @@ Ofrecer mis servicios como Growth Marketer, compartir herramientas de IA y un es
 ├── img/                (Imágenes)
 ├── tools/              (Herramientas/GPTs)
 └── README.md           (Este archivo)
-🚀 Tecnologías
+
+## 🚀 Tecnologías
 Frontend: HTML5, CSS3, JavaScript
 Backend: PHP y Python
 IA Integrada: OpenSource (GPT y automatizaciones)
-🧪 Sandbox
+## 🧪 Sandbox
 Aquí experimento con:
 
 Pruebas de código
