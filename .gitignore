@@ -1,0 +1,17 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Node / npm / Python
+node_modules/
+__pycache__/
+.env
+
+# Logs y caché
+*.log
+*.cache
+
+# Editor y configuraciones locales
+.vscode/
+.idea/
+*.swp
